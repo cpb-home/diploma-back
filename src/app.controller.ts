@@ -14,5 +14,4 @@ export class AppController {
   getFuck(): string {
     return this.appService.getFuck();
   }
-
 }
